@@ -18,8 +18,8 @@ Steps to run the project
 4. Install the necessary packages using the command
 
     npm install --save react-router-dom
-	npm install --save-dev bootstrap
-	npm install --save axios
+    npm install --save-dev bootstrap
+    npm install --save axios
 
 5. once all the packages are installed run the below command in frontend directory
 
