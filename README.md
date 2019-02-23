@@ -39,7 +39,7 @@ Steps to run the project
 
 	mvn clean install
 	
-	java -jar target/<project-name>.jar
+	java -jar target/\<project-name\>.jar
 
 
 More information can be found in
