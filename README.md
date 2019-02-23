@@ -18,7 +18,9 @@ Steps to run the project
 4. Install the necessary packages using the command
 
     npm install --save react-router-dom
+    
     npm install --save-dev bootstrap
+    
     npm install --save axios
 
 5. once all the packages are installed run the below command in frontend directory
@@ -36,6 +38,7 @@ Steps to run the project
 11. Alternatively you start the project using below command
 
 	mvn clean install
+	
 	java -jar target/<project-name>.jar
 
 
